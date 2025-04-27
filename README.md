@@ -37,20 +37,10 @@ Practical, scalable solutions for serious communities and brands
 
 No Fiverr clones. No gimmicks. Only real development.
 
-📣 Who I Want to Work With
-Professional developers
-
-Web designers
-
-Bot creators
-
-Automation specialists
-
 If you're about building real systems, leveling up, and creating work that actually matters — we should talk.
-If you’re about shortcuts and chasing trends — move on.
 
 📫 Contact
 Discord: illegalfunds.
 
-🔥 Example of our work:
+🔥 Example of my work:
 https://sematary-dev.vercel.app
