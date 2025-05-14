@@ -1,46 +1,12 @@
-Hey, I'm Jess
-I’m the mind behind Sematary — a growing collective focused on serious development projects, next-gen automation, and smarter tools for online communities and brands.
-Self-taught, battle-tested, and built different — I’m here to build, innovate, and break outdated systems holding people back.
+Hi im jess i like coding! if u want to get to know me ur in the right place.
 
-This isn’t a hobby. This is my craft.
+I've created a discord bot called "soul" just released 5/13/25 and already has 6 servers that soul is in!
 
-🚀 About Me
-Founder of Sematary: Building advanced Discord bots, web tools, and automation systems — designed for real growth, not clout.
+I am currently devolping a speical project i might create a game pretty soon just for fun!
 
-Full-Time Developer: No shortcuts. No gimmicks. Just real development that solves real problems.
+I like to code mostly in javascript and python, as i am still learing C++ & C sharp.
 
-Currently Creating: A next-gen Discord bot focused on smarter commands, better automation, and full control — without the bloated nonsense.
+So uhm if u want to speak or join my server.
 
-Self-Taught & Relentless: No classrooms, no hand-holding. Just hard work, failure, and leveling up.
-
-Global Collaborator: Working worldwide with serious developers, brands, and creators — because real results have no borders.
-
-🔧 What I Specialize In
-Discord Bot Development: Clean, scalable, fast bots tailored for real communities.
-
-Web Development: Building optimized BioLink pages, dashboard systems, and high-performance websites.
-
-Automation Solutions: Creating scripts and tools that save time, money, and scale brands smarter.
-
-Backend Systems: Powering brands, servers, and businesses with the infrastructure they actually need.
-
-💡 Sematary — What We're Building
-At Sematary, we're creating:
-
-Next-gen bots
-
-Real automation tools
-
-Smarter websites
-
-Practical, scalable solutions for serious communities and brands
-
-No Fiverr clones. No gimmicks. Only real development.
-
-If you're about building real systems, leveling up, and creating work that actually matters — we should talk.
-
-📫 Contact
-Discord: illegalfunds.
-
-🔥 Example of my work:
-https://sematary-dev.vercel.app
+You can add my discord "illegalfunds."
+https://discord.gg/HqjEcpQSyG
